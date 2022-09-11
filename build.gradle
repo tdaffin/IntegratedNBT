@@ -132,6 +132,9 @@ dependencies {
 
     modLib "com.google.re2j:re2j:1.1"
 
+    //TOP
+    implementation fg.deobf("curse.maven:the-one-probe-245211:3965693")
+
 
 //    minecraft 'net.minecraftforge:forge:1.16.4-35.1.13'
 //
